@@ -1,0 +1,4 @@
+node_modules
+AGENTS.node_modules
+CLAUDE.node_modules
+tudo que eu colocar aqui, sendo pasta ou arquivo vai ser ignorado ao enviar o código no github.
